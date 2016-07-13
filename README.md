@@ -1,7 +1,9 @@
 # Automation-Testing
 
-1. Unit testing for sentence Handling module: 
+1. Unit test for sentence Handling module: 
     1. sentenceHandling.py
     2. sentenceHandlingUnitTest.py
 
-2. 
+2. Unit test for palindrome check module: 
+    1. palindromeCheck.py
+    2. palindromeCheckUnitTest.py
