@@ -12,4 +12,5 @@
     1. removeDup.py
     2. removeDupUnitTest.py
 4. Selenium Test: Install Selenium and chrome driver beforehand to run this test
+
     1. GSearchSeleniumTest.py (www.google.com search test using Selenium and chrome driver)
